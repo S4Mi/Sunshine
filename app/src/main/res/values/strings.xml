@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- [CHAR LIMIT = 30] -->
+    <string name="pref_location_label">Location</string>
+
+        <!-- [CHAR LIMIT = NONE] -->
+    <string name="pref_location_key" translatable="false" >location</string>
+
+    <!-- [CHAR LIMIT = NONE] -->
+    <string name="pref_location_default" translatable="false" >Tehran</string>
+
+
+    <!-- [CHAR LIMIT = 30] -->
+    <string name="pref_units_label">Temprature Units</string>
+
+    <!-- [CHAR LIMIT = NONE] -->
+    <string name="pref_units_key" translatable="false" >units</string>
+
+    <!-- [CHAR LIMIT = NONE] -->
+    <string name="pref_units_default" translatable="false" >Metric</string>
+
+    <string name="pref_units_metric">Metric</string>
+    <string name="pref_units_imperial">Imperial</string>
+
+    <string name="action_map">Map Location</string>
+    
+    <string name="action_share">Share</string>
+
+</resources>
